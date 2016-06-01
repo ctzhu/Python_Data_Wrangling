@@ -7,5 +7,7 @@ Just some small question sets for you to familiarize yourself with some of the h
 
 Keys will be uploaded every Friday of the week when the questions are uploaded.
 
+Fork the repo and try to solve the puzzles, each `Jupyter Notebook` here contains the puzzles, the intended results, and the codez need some help from you.
+
 Have fun!
 -----------
